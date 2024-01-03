@@ -1,0 +1,78 @@
+// AboutMe.scss
+
+.Abouttitle{
+    position: sticky;
+    top: 0;
+    left: 0;
+    padding-top: 40px;
+    text-align: center;
+    font-size: 36px;
+    justify-content: center;
+    align-items: center;
+}
+.about-me-container {
+    max-width: 1366px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+  
+    h1 {
+      color: orange;
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+  
+    p {
+      color: lightgray;
+      font-size: 1.2em;
+      line-height: 1.5;
+      margin-bottom: 15px;
+    }
+
+
+  }
+
+/* AboutMe.scss */
+
+.about-me-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content-container {
+    display: flex;
+  }
+  
+  .image-container {
+    margin-right: 20px;
+    flex-shrink: 0; /* Prevents the image from shrinking when the content is too wide */
+  }
+  
+  .text-container {
+    max-width: 900px; /* Adjust the max-width as needed */
+  }
+  
+  .profile-image {
+    width: 250px; 
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+
+    
+    button { 
+      padding: 20px;
+      border: 1px solid white;
+      border-radius: 10px;
+      background-color: transparent;
+      color: white;
+      margin-right: 20px;
+      cursor: pointer;
+      font-weight: 300;  
+    }
+  }
+  
