@@ -55,16 +55,17 @@ const AboutMe = () => {
                 </div>
                 <div className='text-container'>
                     <p>
-                        As a recent graduate with a Diploma in Business Information Technology 
-                        from the University of Johannesburg, combined with a Diploma in Journalism and 
-                        Media Studies from Damelin, I am eager to contribute my skills and experiences to your organisation.
+                    Recent graduate in Business Information Technology from the University of Johannesburg, passionate about 
+                    leveraging technology for optimal business outcomes. Possess a unique blend of technical expertise and 
+                    insights from my Diploma in Journalism and Media Studies from Damelin. Proven ability in UX Design, Mobile App development, 
+                    event coordination, and adept at serving as an MC for hackathons.
 
                     </p>
                     <p>
-                        My education has equipped me with a solid foundation in web development, database management, 
+                        My education has equipped me with a solid foundation in web and mobile app development, database management, 
                         digital business strategy, and business analytics. 
                         Additionally, my coursework in Journalism and Media Studies, complemented by proficiency in multimedia software 
-                        such as Adobe Photoshop and InDesign, has honed my creativity and ability to produce engaging content.
+                        such as Figma, Adobe Photoshop and InDesign, has honed my creativity and ability to produce engaging content.
                     </p>
                     <p>I am eager to contribute my skills and experience to a team that values cutting-edge 
                         solutions and shares a passion for making a meaningful difference.

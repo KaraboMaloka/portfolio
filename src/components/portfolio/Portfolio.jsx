@@ -7,7 +7,7 @@ const items = [
   {
     id: 1,
     title: "Sync Vibes App",
-    job: "(Product Manager and Front-end Developer)",
+    job: "(Project Manager and Front-end Developer)",
     img: "./colour-logo.png",
     desc: "This react app provides a centralized platform for event organizers to seamlessly promote their events, manage attendees, and gather actionable insights. For attendees, Sync Vibes offers a user-friendly interface to discover, register, and engage with tech-related events, fostering a vibrant community and facilitating meaningful connections with industry professionals. ",
   },

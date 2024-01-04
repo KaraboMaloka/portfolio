@@ -69,7 +69,7 @@ const Services = () => {
         >
           <h2>Web Development Skills</h2>
           <p>
-            Proficiency in HTML, CSS, React Native, and web design. I specialize in 
+            Proficiency in HTML, CSS, React Native, and Ionic. I specialize in 
             creating user-centric interfaces and employing various frameworks to 
             ensure seamless user experiences.   
           </p>
@@ -79,7 +79,7 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>User Experience Design Skills</h2>
+          <h2>User Experience (UX) Design Skills</h2>
           <p>
             Equipped in User Research methodologies, usability testing, feedback implementation,
             data analysis, and design decision-making with proficiency in prototyping 
@@ -103,11 +103,10 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Technical Writing and Documentation</h2>
+          <h2>Business Analytic Skills</h2>
           <p>
-            My proficiency extends to creating documentation that 
-            serves diverse purposes, from aiding in software development to guiding end-users 
-            through complex processes.
+            Proficiency in business analysis tools and techniques, including SWOT analysis, 
+            process flow diagrams, and data modeling with strong analytical and problem-solving skills.
           </p>
           
         </motion.div>
